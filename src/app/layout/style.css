@@ -83,8 +83,8 @@ SPACING System (px)
 }
 
 .heading-secondary {
-    color: var(--colorsecondary);
-    font: var(--h2);
+    color: white;
+    font: 3.6rem;
     margin-bottom: 2rem;
 
 }

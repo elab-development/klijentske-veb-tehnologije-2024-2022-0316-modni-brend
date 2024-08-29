@@ -12,5 +12,8 @@ export type AppQuestion = {
     species: string;
     date: string;
     description: string;
+    title?: string,
+    opinion?: string,
+    suggests?: string
 
 }
