@@ -197,7 +197,7 @@ h1:first-child{
 
 .hero {
     max-width: 130rem;
-    height: 90vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     margin: 0 auto;
